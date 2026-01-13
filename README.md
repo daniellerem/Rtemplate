@@ -3,7 +3,7 @@
 
 ## Usage
 
-Click "Use this template" at the top of this page to create a new repository with the same folder structure.
+When starting a new project, Clone this repository.
 
 ## Project Structure
 
